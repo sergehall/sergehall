@@ -23,6 +23,7 @@
 - **WebSocket**: Enabling real-time communication in applications.
 - **PostgreSQL** & **MongoDB**: Database design, queries, and optimization.
 - **Swagger**: Documenting APIs for improved collaboration and maintainability.
+- **Python**: Writing clean, efficient, and Pythonic code.
 
 ### **DevOps & Software Design**
 - **Docker**: Containerizing applications for portability and consistency.
