@@ -44,4 +44,4 @@
 
 💞️ I’m looking to collaborate on innovative projects that align with my skills and interests. Whether you're a team of like-minded developers or an organization seeking passionate contributors, let's create something amazing together.
 
-📫 Feel free to reach out to me: **serge.hall.dev@gmail.com**
+📫 Feel free to reach out to me: **www.sergioartg.com**
