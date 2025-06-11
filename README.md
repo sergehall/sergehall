@@ -7,9 +7,7 @@ I'm a full-stack developer focused on building **clean**, **modular**, and **pro
 ## Education
 
 **Web Developer, Associate in Science (A.S.)**  
-**Certificate of Achievement in Web Development**  
 Santa Monica College — *Los Angeles, CA*  
-1900 Pico Boulevard, Santa Monica, CA 90405  
 [View program & classes](https://www.smc.edu/academics/classes/program.php?id=52)
 
 Currently enrolled and actively honing both frontend and backend skills through project-based learning and real-world architecture patterns.
