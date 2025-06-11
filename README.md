@@ -1,47 +1,48 @@
-# About Me
+# Hi, I'm Serge Hall
 
-👋 Hi, I’m Serge Hall (@sergehall), a passionate and motivated learner delving into the world of software development. I am currently honing my skills as a student at [IT-Incubator](https://it-incubator.ru), an exceptional educational platform that has empowered me with robust front-end and back-end development knowledge. My journey involves building projects from scratch, applying the principles and technologies learned through rigorous practice.
-
----
-
-## Interests & Aspirations
-
-👀 I am highly enthusiastic about joining a professional environment where I can contribute my knowledge and grow further, either independently or within a team of driven developers aiming to build impactful solutions. I am always excited to collaborate on innovative projects that push boundaries and solve real-world problems.
+I'm a full-stack developer focused on building **clean**, **modular**, and **production-ready** systems. I specialize in modern JavaScript/TypeScript ecosystems with deep attention to architecture, maintainability, and developer workflows.
 
 ---
 
-## Skills & Technologies
+## Education
 
-🌱 I am continuously expanding my expertise in both front-end and back-end development. Here are the core technologies and concepts I am proficient in or actively learning:
+** Web Developer, Associate in Science (AS)**  
+** Certificate of Achievement in Web Development**  
+Santa Monica College — *Los Angeles, CA*  
+[1900 Pico Boulevard, Santa Monica, CA 90405](https://www.smc.edu/academics/classes/program.php?id=52)
 
-### **Backend Development**
-- **Node.js**: Building scalable, server-side applications.
-- **Express**: Lightweight and efficient web framework.
-- **NestJS**: A robust framework for building modular and testable server-side applications.
-- **Microservices Architecture**: Designing distributed systems for scalability and resilience.
-- **RabbitMQ**: Implementing reliable messaging patterns.
-- **WebSocket**: Enabling real-time communication in applications.
-- **PostgreSQL** & **MongoDB**: Database design, queries, and optimization.
-- **Swagger**: Documenting APIs for improved collaboration and maintainability.
-- **Python**: Writing clean, efficient, and Pythonic code.
-
-### **DevOps & Software Design**
-- **Docker**: Containerizing applications for portability and consistency.
-- **Kubernetes**: Orchestrating and managing containerized workloads.
-- **Jenkins**: Automating CI/CD pipelines.
-- **SOLID Principles**: Writing maintainable and scalable code.
-- **Hexagonal Architecture**: Implementing clean and decoupled application designs.
-- **SAGA Pattern**: Managing distributed transactions in microservices.
-
-### **Front-End Development**
-- **React.js**: Building user interfaces and SPAs.
-- **HTML**, **CSS**, **JavaScript (ES6+)**, and **TypeScript**: Crafting dynamic and responsive user experiences.
-- **Axios**: Simplifying HTTP requests and API integrations.
+Currently enrolled and actively honing both frontend and backend skills through project-based learning and real-world architecture patterns.
 
 ---
 
-## Let’s Connect
+## Tech Stack
 
-💞️ I’m looking to collaborate on innovative projects that align with my skills and interests. Whether you're a team of like-minded developers or an organization seeking passionate contributors, let's create something amazing together.
+**Frontend**
+- React 19, Vite, Redux Toolkit, TypeScript
+- Styled Components, Zod, React Router v6
+- Component-driven architecture & feature-based structure
 
-📫 Feel free to reach out to me: **www.sergioartg.com**
+**Backend**
+- NestJS (11+), PostgreSQL, Kafka, WebSocket
+- Microservices, Event-Driven, Hexagonal Architecture
+- Docker, Heroku, CI/CD with GitHub Actions
+
+**Tooling**
+- Yarn Berry (PnP), Monorepo management
+- ESLint + Prettier + TypeScript strict mode
+- GitHub Actions, Vercel, Jenkins, Kubernetes (learning)
+
+---
+
+## Featured Project
+
+### [Lens Lounge Microservices](https://github.com/sergehall/lens-lounge-microservices)  
+Monorepo app with microservices (NestJS), Kafka, PostgreSQL, and a React + Vite frontend. Fully containerized and CI-ready.
+
+---
+
+## Let's Connect
+
+- GitHub: [@sergehall](https://github.com/sergehall)
+- Photo-Portfolio: [sergioartg.com](https://www.sergioartg.com)
+- Open to collaboration, mentoring, and full-time roles
