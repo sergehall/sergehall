@@ -35,6 +35,38 @@ Currently enrolled and actively honing both frontend and backend skills through 
 
 ## Featured Project
 
+### [WebDev Coursework Platform](https://webdev-coursework.com)  
+Modular full-stack monorepo for multiple Computer Science courses at Santa Monica College.
+
+<details>
+<summary><strong>View Details</strong></summary>
+
+**Courses Included**  
+This platform supports multiple SMC Web Programming courses, including:  
+- CS 60 – Database Concepts and Applications  
+- CS 70 – Network Fundamentals and Architecture  
+- CS 73A – Fundamentals of Computer Security  
+- CS 79A – Introduction to Cloud Computing  
+- CS 79E – Best Practices in Amazon Web Services  
+- CS 80 – Internet Programming  
+- CS 81 – JavaScript Programming  
+- CS 83 – Server-Side Java Web Programming  
+- CS 87A – Python Programming  
+
+**Core Skills Demonstrated**  
+- HTML, CSS, JavaScript  
+- React 19, TypeScript, Vite, Tailwind CSS  
+- Backend with NestJS, PostgreSQL, TypeORM  
+- REST API development & testing (Jest, Supertest)  
+- Cloud, database & security fundamentals  
+- Modular architecture, state management, animation, routing  
+- Zod validation, E2E progress tracking  
+- Yarn 4 workspaces with Plug'n'Play (PnP)  
+
+</details>
+
+---
+
 ### [Lens Lounge Microservices](https://github.com/sergehall/lens-lounge-microservices)  
 Monorepo app with microservices (NestJS), Kafka, PostgreSQL, and a React + Vite frontend. Fully containerized and CI-ready.
 
