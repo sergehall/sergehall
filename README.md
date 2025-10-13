@@ -72,6 +72,15 @@ Monorepo app with microservices (NestJS), Kafka, PostgreSQL, and a React + Vite 
 
 ---
 
+### [My Photography Site](https://www.sergioartg.com)
+
+My photography portfolio, [**sergioartg.com**](https://www.sergioartg.com), combines art direction with the precision of modern web engineering.  
+Every frame and every line of code share the same goal — clarity, balance, and performance.  
+Built with **React**, **Cloudflare**, and **Vercel**, it’s fast, modular, and designed to tell visual stories elegantly.
+
+---
+
+
 ## Let's Connect
 
 - GitHub: [@sergehall](https://github.com/sergehall)
