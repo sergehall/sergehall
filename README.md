@@ -67,11 +67,6 @@ This platform supports multiple SMC Web Programming courses, including:
 
 ---
 
-### [Lens Lounge Microservices](https://github.com/sergehall/lens-lounge-microservices)  
-Monorepo app with microservices (NestJS), Kafka, PostgreSQL, and a React + Vite frontend. Fully containerized and CI-ready.
-
----
-
 ### [My Photography Site](https://www.sergioartg.com)
 
 My photography portfolio, [**sergioartg.com**](https://www.sergioartg.com), combines art direction with the precision of modern web engineering.  
@@ -80,6 +75,10 @@ Built with **React**, **Cloudflare**, and **Vercel**, it’s fast, modular, and 
 
 ---
 
+### [Lens Lounge Microservices](https://github.com/sergehall/lens-lounge-microservices)  
+Monorepo app with microservices (NestJS), Kafka, PostgreSQL, and a React + Vite frontend. Fully containerized and CI-ready.
+
+---
 
 ## Let's Connect
 
