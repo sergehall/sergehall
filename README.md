@@ -13,6 +13,7 @@ Santa Monica College — *Los Angeles, CA*
 Currently enrolled and actively honing both frontend and backend skills through project-based learning and real-world architecture patterns.
 
 ---
+
 <details>
 <summary><h2>Tech Stack</h2></summary>
 
@@ -56,6 +57,7 @@ Currently enrolled and actively honing both frontend and backend skills through 
 - MinIO (local S3), Mailpit (local SMTP), Kafka UI
 
 </details>
+
 ---
 
 ## Featured Project
