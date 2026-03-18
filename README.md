@@ -14,22 +14,49 @@ Currently enrolled and actively honing both frontend and backend skills through 
 
 ---
 
-## Tech Stack
+<details>
+<summary><h2>Tech Stack</h2></summary>
 
 **Frontend**
-- React 19, Vite, Redux Toolkit, TypeScript
-- Styled Components, Zod, React Router v6
-- Component-driven architecture & feature-based structure
+- Next.js 16, React 19, TypeScript 5
+- Mantine UI 8, Styled Components 6, Framer Motion 12
+- Redux Toolkit 2, Zod 4, Socket.IO Client 4
+- Tiptap 3 (rich text), Vitest 4 + React Testing Library
 
-**Backend**
-- NestJS (11+), PostgreSQL, Kafka, WebSocket
-- Microservices, Event-Driven, Hexagonal Architecture
-- Docker, Heroku, CI/CD with GitHub Actions
+**Backend — Node.js**
+- NestJS 11, Node 24, TypeScript 5 strict
+- PostgreSQL + TypeORM 0.3, pgx driver
+- Kafka (KRaft mode), Socket.IO (WebSocket gateway)
+- Passport JWT + OAuth (GitHub / Google / Facebook) + MFA
+- Stripe, AWS S3 SDK v2, Nodemailer, Sharp
+- CQRS, Event-Driven, Hexagonal Architecture
+- Swagger / OpenAPI (per-service, env-gated)
+
+**Backend — Go**
+- Go 1.26, Chi v5 (HTTP router)
+- pgx/v5 (PostgreSQL), segmentio/kafka-go
+- AWS SDK v2 (S3 / MinIO), google/uuid
+- Deployed on Render.com
+
+**Microservices Architecture**
+- backend · payment-service · file-service
+- Shared contracts package (HTTP + Kafka DTOs)
+- Internal service token auth (x-service-token)
+- Kafka event bus: files.*, payments.*, blog.*
+
+**Infrastructure & DevOps**
+- Docker, Docker Compose (Kafka, MinIO, Mailpit, Postgres 15)
+- Heroku (backend, payment-service), Render.com (file-service), Vercel (frontend)
+- GitHub Actions CI/CD (per-service path-filtered workflows)
+- Kubernetes (learning)
 
 **Tooling**
-- Yarn Berry (PnP), Monorepo management
-- ESLint + Prettier + TypeScript strict mode
-- GitHub Actions, Vercel, Jenkins, Kubernetes (learning)
+- Yarn Berry 4 (PnP), Monorepo (Yarn Workspaces)
+- ESLint 9 + Prettier 3, TypeScript strict across all services
+- Jest 29 + Supertest, contract tests (HTTP & Kafka)
+- MinIO (local S3), Mailpit (local SMTP), Kafka UI
+
+</details>
 
 ---
 
@@ -70,13 +97,13 @@ This platform supports multiple SMC Web Programming courses, including:
 ### [My Photography Site](https://www.sergioartg.com)
 
 My photography portfolio, [**sergioartg.com**](https://www.sergioartg.com), combines art direction with the precision of modern web engineering.  
-Every frame and every line of code share the same goal — clarity, balance, and performance.  
+Every frame and every line of code share the same goal clarity, balance, and performance.  
 Built with **React**, **Cloudflare**, and **Vercel**, it’s fast, modular, and designed to tell visual stories elegantly.
 
 ---
 
-### [Lens Lounge Microservices](https://github.com/sergehall/lens-lounge-microservices)  
-Monorepo app with microservices (NestJS), Kafka, PostgreSQL, and a React + Vite frontend. Fully containerized and CI-ready.
+### [**Lens Lounge Microservices**](https://lens-lounge.com)
+Production monorepo with three independent microservices: **backend** and **payment-service** (NestJS 11, Node 24), and **file-service** (Go 1.26). Event-driven via Apache Kafka (KRaft), PostgreSQL per-service, AWS S3 file storage, and Stripe payments. Frontend on Next.js 16 + React 19. Deployed across Heroku, Render.com, and Vercel. Full CI/CD with per-service GitHub Actions workflows and Docker Compose local stack.
 
 ---
 
