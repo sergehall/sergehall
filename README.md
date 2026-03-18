@@ -18,8 +18,8 @@ Currently enrolled and actively honing both frontend and backend skills through 
 <summary><h2>Tech Stack</h2></summary>
 
 **Frontend**
-- Next.js 16, React 19, TypeScript 5
-- Mantine UI 8, Styled Components 6, Framer Motion 12
+- Next.js 16, Vite 7, React 19, TypeScript 5
+- Mantine UI 8, TailwindCSS, Styled Components 6, Framer Motion 12
 - Redux Toolkit 2, Zod 4, Socket.IO Client 4
 - Tiptap 3 (rich text), Vitest 4 + React Testing Library
 
@@ -48,7 +48,7 @@ Currently enrolled and actively honing both frontend and backend skills through 
 - Docker, Docker Compose (Kafka, MinIO, Mailpit, Postgres 15)
 - Heroku (backend, payment-service), Render.com (file-service), Vercel (frontend)
 - GitHub Actions CI/CD (per-service path-filtered workflows)
-- Kubernetes (learning)
+- Kubernetes — full local cluster via Colima (Deployments, Services, Ingress, PV, Kustomize)
 
 **Tooling**
 - Yarn Berry 4 (PnP), Monorepo (Yarn Workspaces)
@@ -69,26 +69,57 @@ Modular full-stack monorepo for multiple Computer Science courses at Santa Monic
 <summary><strong>View Details</strong></summary>
 
 **Courses Included**  
-This platform supports multiple SMC Web Programming courses, including:  
-- CS 60 – Database Concepts and Applications  
+This platform supports multiple SMC Web Programming courses, including:
+- CS 60 – Database Concepts & Applications  
 - CS 70 – Network Fundamentals and Architecture  
-- CS 73A – Fundamentals of Computer Security  
 - CS 79A – Introduction to Cloud Computing  
-- CS 79E – Best Practices in Amazon Web Services  
 - CS 80 – Internet Programming  
 - CS 81 – JavaScript Programming  
-- CS 83 – Server-Side Java Web Programming  
+- CS 85 – PHP Programming  
+- CS 79D – Security in Amazon Web Services  
+- CS 79C – Compute Engines in Amazon Web Services  
 - CS 87A – Python Programming  
 
-**Core Skills Demonstrated**  
-- HTML, CSS, JavaScript  
+
+## Core Skills Demonstrated
+
+### Frontend Development
+- HTML5, CSS3, JavaScript (ES6+)  
+- Responsive design, Flexbox, Grid  
 - React 19, TypeScript, Vite, Tailwind CSS  
-- Backend with NestJS, PostgreSQL, TypeORM  
-- REST API development & testing (Jest, Supertest)  
-- Cloud, database & security fundamentals  
-- Modular architecture, state management, animation, routing  
-- Zod validation, E2E progress tracking  
-- Yarn 4 workspaces with Plug'n'Play (PnP)  
+- UI/UX principles, accessibility (a11y)  
+- Routing, state management, animations  
+
+### Backend Development
+- Node.js, NestJS architecture  
+- REST API design, development & testing (Jest, Supertest)  
+- PHP development (server-side scripting)  
+- Python programming fundamentals  
+
+### Databases
+- Relational databases (PostgreSQL)  
+- SQL queries, joins, normalization  
+- ORM usage (TypeORM)  
+- Database design & optimization  
+
+### Cloud & DevOps
+- AWS fundamentals (EC2, cloud compute, services)  
+- Cloud architecture basics  
+- Deployment concepts & environment configuration  
+- Yarn 4 workspaces, Plug'n'Play (PnP)  
+
+### Networking & Security
+- Network fundamentals & architecture (TCP/IP, DNS, HTTP)  
+- Web security principles (authentication, authorization)  
+- AWS security best practices  
+- Common vulnerabilities (OWASP basics)  
+
+### Software Engineering
+- Modular architecture & scalable design  
+- Code organization & best practices  
+- Validation with Zod  
+- E2E workflows & progress tracking  
+- Version control (Git) & collaboration  
 
 </details>
 
