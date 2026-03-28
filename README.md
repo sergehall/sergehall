@@ -220,7 +220,7 @@ Photography portfolio combining art direction with modern web engineering. Built
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SergeHall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergeHall&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergeHall&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 <p align="center">
