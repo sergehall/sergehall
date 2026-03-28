@@ -1,4 +1,4 @@
-# Hi, I'm Serge Hall 👋
+# Hi, I'm Serge Hall 
 
 <h3 align="left">Full-Stack Developer • TypeScript / Node.js / React / Go</h3>
 
