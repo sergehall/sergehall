@@ -221,12 +221,12 @@ Photography portfolio combining art direction with modern web engineering. Built
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SergeHall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergeHall&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SergeHall&amp;theme=tokyonight" alt="SergeHall's GitHub statistics" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SergeHall&amp;theme=tokyonight" alt="Top languages across SergeHall's public repositories" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sergehall&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sergehall&amp;theme=tokyonight&amp;hide_border=true" alt="SergeHall's GitHub contribution streak" />
 </p>
 
 ---
@@ -234,20 +234,16 @@ Photography portfolio combining art direction with modern web engineering. Built
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergehall&theme=tokyo-night&hide_border=true" />
+  <a href="https://github.com/sergehall?tab=overview">
+    <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergeHall&amp;theme=tokyonight" alt="SergeHall's GitHub contribution graph" />
+  </a>
 </p>
 
 ---
 
 ## Connect With Me
 
-<p align="left">
-  <a href="https://github.com/sergehall">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" />
-  </a>
-  <a href="https://www.sergioartg.com">
-    <img src="https://img.shields.io/badge/Portfolio-sergioartg.com-111827?style=for-the-badge" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-SergeHall-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergehall)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sergioartg.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sergioartg.com)
 
 - Open to collaboration, mentoring, and full-time roles
