@@ -151,26 +151,40 @@ Currently enrolled and actively sharpening both frontend and backend skills thro
 
 ## Featured Projects
 
+### [SERGIOARTG — Creative Commerce & Services Platform](https://www.sergioartg.com)
+
+My flagship project, evolving from a photography portfolio into a full-stack platform for creative services and commerce. It connects visual storytelling with service discovery, product sales, booking workflows, payments, and a dedicated client workspace.
+
+Built as a TypeScript monorepo with Next.js, React, and NestJS, the platform brings together PostgreSQL-backed business workflows, background processing, real-time messaging, and Cloudflare-powered media delivery. Behind the public experience, an admin console supports content management, pricing, availability, analytics, and role-based access governance.
+
+An ongoing exploration of how thoughtful design and modular architecture can turn a creative practice into an integrated digital business.
+
+---
+
 ### [WebDev Coursework Platform](https://webdev-coursework.com)
+
 Modular full-stack monorepo for multiple Computer Science courses at Santa Monica College.
 
 <details>
 <summary><strong>View Details</strong></summary>
 
 **Courses Included**
-- CS 60 – Database Concepts & Applications
+
+- CS 56 – Advanced Java Programming
+- CS 60 – Database Concepts and Applications
 - CS 70 – Network Fundamentals and Architecture
 - CS 79A – Introduction to Cloud Computing
 - CS 80 – Internet Programming
 - CS 81 – JavaScript Programming
 - CS 85 – PHP Programming
+- CS 87A – Python Programming
 - CS 79D – Security in Amazon Web Services
 - CS 79C – Compute Engines in Amazon Web Services
-- CS 87A – Python Programming
 
 #### Core Skills Demonstrated
 
 **Frontend Development**
+
 - HTML5, CSS3, JavaScript (ES6+)
 - Responsive design, Flexbox, Grid
 - React 19, TypeScript, Vite, Tailwind CSS
@@ -178,28 +192,34 @@ Modular full-stack monorepo for multiple Computer Science courses at Santa Monic
 - Routing, state management, animations
 
 **Backend Development**
+
 - Node.js, NestJS architecture
 - REST API design, development & testing
+- Advanced Java programming
 - PHP development
 - Python programming fundamentals
 
 **Databases**
+
 - PostgreSQL, SQL, joins, normalization
 - TypeORM
 - Database design & optimization
 
 **Cloud & DevOps**
+
 - AWS fundamentals
 - Deployment concepts
 - Yarn 4 workspaces, Plug'n'Play
 
 **Networking & Security**
+
 - TCP/IP, DNS, HTTP
 - Authentication, authorization
 - AWS security basics
 - OWASP fundamentals
 
 **Software Engineering**
+
 - Modular architecture
 - Scalable design
 - Validation with Zod
@@ -210,11 +230,17 @@ Modular full-stack monorepo for multiple Computer Science courses at Santa Monic
 
 ---
 
-### [Lens Lounge Microservices](https://lens-lounge.com)
-Production monorepo with three independent microservices: **backend** and **payment-service** on NestJS, and **file-service** on Go. Event-driven via Kafka, PostgreSQL per service, AWS S3 file storage, Stripe payments, and Next.js frontend. Full CI/CD with GitHub Actions and Docker-based local infrastructure.
+### [MyCaseTrail — Immigration Preparation & Case Workspace](https://mycasetrail.com)
 
-### [My Photography Site](https://www.sergioartg.com)
-Photography portfolio combining art direction with modern web engineering. Built with React, Cloudflare, and Vercel for performance, clarity, and visual storytelling.
+A personal workspace that turns complex immigration preparation into a structured, manageable journey. MyCaseTrail brings together form drafts, supporting documents, filing checklists, notes, and citizenship study tools—helping users organize their case, track preparation and learning progress, and pick up where they left off.
+
+Built with Next.js, NestJS, TypeScript, and PostgreSQL, it combines account-isolated storage, configurable autosave, version history, and multilingual interfaces. Designed for preparation at your own pace, with clear progress tracking and safeguards against accidental overwrites.
+
+---
+
+### [Lens Lounge Microservices](https://lens-lounge.com)
+
+Production monorepo with three independent microservices: **backend** and **payment-service** on NestJS, and **file-service** on Go. Event-driven via Kafka, PostgreSQL per service, AWS S3 file storage, Stripe payments, and Next.js frontend. Full CI/CD with GitHub Actions and Docker-based local infrastructure.
 
 ---
 
